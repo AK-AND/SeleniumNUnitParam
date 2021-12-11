@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SeleniumNUnitParam/.vs/SeleniumNUnitParam/v17
+/SeleniumNUnitParam/SeleniumNUnitParamApi/bin/Debug/net6.0
+/SeleniumNUnitParam/SeleniumNUnitParamApi/obj
+/SeleniumNUnitParam/SeleniumNUnitParamTest/bin/Debug/net6.0
+/SeleniumNUnitParam/SeleniumNUnitParamTest/obj
